@@ -42,3 +42,6 @@ Necessário que seja definido um cronogramas para a análise de dados e a elabor
 
 Garantir que todos estejam alinhados sobre objetivos e as expectativas do projeto.
 
+
+
+![Gráfico de Café](Cafeína%20Analytics.png)
