@@ -1,0 +1,13 @@
+variavel,descricao,tipo,subtipo
+name,Nome da mistura do café,qualitativa,nominal
+roaster,"Nome do torrefador do café, o lugar que faz a torra dos grãos.",qualitativa,nominal
+roast,Tipo da torra,qualitativa,ordinal
+loc_country,Localização onde se encontra o torrefador do café.,qualitativa,nominal
+origin_1,País de origem dos grãos,qualitativa,nominal
+origin_2,País de origem dos grãos,qualitativa,nominal
+100g_USD,Preço por 100g dos grãos em dólar americano,quantitativa,contínua
+rating,Nota do café,quantitativa,discreta
+review_date,Data da avaliação do café,qualitativa,ordinal
+desc_1,Descrição da avaliação feita.,qualitativa,nominal
+desc_2,Descrição da avaliação feita.,qualitativa,nominal
+desc_3,Descrição da avaliação feita.,qualitativa,nominal
