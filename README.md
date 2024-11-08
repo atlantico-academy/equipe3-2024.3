@@ -1,4 +1,7 @@
-# Cafeína Analytcs
+# Cafeína Analytics
+
+<img src="docs/assets/images/cafeina_Analytics.webp" alt="Imagem de uma xícara de café desenhada, onde a fumaça do café imita fluxos e descobertas. No fundo da imagem tem alguns gráficos." />
+ 
 
 O Projeto sobre o Coffee Reviews Dataset tem como objetivo explorar e analisar os dados sobre avaliações de cafés com intuito de extrair insights que auxiliem na compreensão e explicação de decisões estratégicas de negócios.
 
